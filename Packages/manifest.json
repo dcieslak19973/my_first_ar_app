@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "com.unity.xr.management": "4.4.0",
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.render-pipelines.universal": "14.0.9",
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
